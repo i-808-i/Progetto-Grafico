@@ -1,0 +1,14 @@
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.Form1.resources
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.Properties.Resources.resources
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\bin\Debug\ProgettoGraficoTemperature.exe.config
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\bin\Debug\ProgettoGraficoTemperature.exe
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\bin\Debug\ProgettoGraficoTemperature.pdb
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\bin\Debug\Libreria.AccessoDati.dll
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\bin\Debug\Libreria.AccessoDati.pdb
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.csproj.CopyComplete
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.exe
+C:\Users\miche\source\repos\ProgettoGraficoTemperature\ProgettoGraficoTemperature\obj\Debug\ProgettoGraficoTemperature.pdb
